@@ -13,8 +13,6 @@ public class N1451_직사각형으로나누기 {
         int height = Integer.parseInt(st.nextToken());
         int width = Integer.parseInt(st.nextToken());
 
-        for (int i = 0; i < height; i++) {
-            for (int j = 0;)
-        }
+
     }
 }
